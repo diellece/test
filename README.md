@@ -1,1 +1,133 @@
-# test
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Music & Lyrics</title> 
+<style>
+body
+	{background-color: #E4ECF6}
+
+div.transbox{
+  position: absolute;
+  top: 70px;
+  left: 500px; 
+  background-color:#967744;
+  opacity: 0.8;
+  padding-left: 20px;
+  padding-right: 20px;
+	}
+  div.transbox h1 {
+	  font-family:"Palatino Linotype";
+		color:antiquewhite; 
+	  opacity:500; 
+	  	
+}
+	
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color:#4D2405;
+  color: white;
+}
+	
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+	
+	h2 { color: #7D5402; font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; font-size: 25px;	
+	}
+	
+	p {font-size:13px ; 
+	}
+	
+	a:link, a:visited {
+  background-color: #C88D00;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: black;
+  color: white;
+}
+
+		
+	</style>
+<body>
+	<div class="background">
+  <img src="Old Sheet Music.jpg" alt="ml" style="width:100%; height:210px;">
+  <div class="transbox">
+    <h1>Music & Lyrics</h1>
+  </div>
+</div>
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+	 <a href="#news">News</a>
+  <a href="#about">About Us</a>
+  <a href="#contact">Contact Us</a>
+  <input type="text" placeholder="Search a Song or Lyrics..">
+</div>
+ 
+	<h2>TODAY'S FEATURED</h2><br>
+	<h3> Way Back Into Love </h3>
+	<h5> by: Hugh Grant ft. Haley Bennett </h5>
+	<p> I've been living with a shadow overhead </p>
+	<p> I've been sleeping with a cloud above my bed </p>
+	<p> I've been lonely for so long </p>
+
+	<p> Trapped in the past </p>
+	<p> I just can't seem to move on </p><br>
+	<p> I've been hiding all my hopes and dreams away</p>
+	<p> Just in case I ever need them again someday </p>
+	<p> I've been setting aside time </p>
+	<p> To clear a little space in the corners of my mind </p><br>
+
+	<p> All I want to do is find a way back into love </p>
+	<p> I can't make it through without a way back into love </p>
+	<p> Oh oh oh </p><br>
+	
+	<h4>Here's the full song. Enjoy!</h4>
+	
+	<video width="500" height="300" controls>
+  <source src="2-y2mate.com - Hugh Grant Haley Bennett Way Back Into Love Lyrics 1080pHD_1080p.mp4" type="video/mp4"> 
+Your browser does not support the video tag.
+</video>
+	
+	<br><br>
+	<a href="https://www.youtube.com/watch?v=PCxW17c3KkY">or stream on YouTube</a>
+	<br><br>
+
+
+
+	
+</body>
+</head>
+
+
+</html>
